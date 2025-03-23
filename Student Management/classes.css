@@ -1,0 +1,40 @@
+.form{
+    
+}
+.form a{
+    text-decoration: none;
+    border-radius: 5px;
+}
+main{
+    backgroun-color: rgb(231, 231, 231);
+}
+.topper{
+    background-image: url("photos/neukral.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.form1{
+    border-radius: 5px;
+    background-color: rgb(255, 226, 191);
+    border: 1px solid rgb(253, 184, 93);
+
+}
+.form2{
+    border-radius: 5px;
+    background-color: rgb(103, 207, 173);
+    border: 1px solid rgb(0, 131, 87);
+
+}
+.form3{
+    border-radius: 5px;
+    background-color: rgb(104, 196, 250);
+    border: 1px solid rgb(0, 103, 163);
+    
+
+}
+.form4{
+    border-radius: 5px;
+    background-color: rgb(253, 198, 130);
+    border: 1px solid orange;
+
+}
